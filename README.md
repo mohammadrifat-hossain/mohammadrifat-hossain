@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Rifat</h1>
 <h3 align="center">A passionate Web Developer || MERN</h3>
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" witdth="400" alt="programming photo"/>
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400" alt="programming photo"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrifat-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrifat-hossain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadrifat-hossain" alt="mohammadrifat-hossain" /></a> </p>
