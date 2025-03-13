@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohammadrifat-hossain/mohammadrifat-hossain/main/assets/github-header-image.png" alt="Mohammad Rifat" width="100%"/>
+  <img src="https://raw.githubusercontent.com/mohammadrifat-hossain/mohammadrifat-hossain/main/assets/github-header-image.png](https://avatars.githubusercontent.com/u/140188901?v=4" alt="Mohammad Rifat" width="100%"/>
   
   # Mohammad Rifat
 
